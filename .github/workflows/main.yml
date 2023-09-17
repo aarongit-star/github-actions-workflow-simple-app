@@ -13,7 +13,7 @@ env:
 #  AZURE_SUBSCRIPTION_ID: "secrets"
 #  AZURE_CLIENT_ID: "secrets"
 #  AZURE_CONTAINER_REGISTRY_PASSWORD: "secrets"
-#  mongoDB url
+#  MongoDB url
 
 on:
   push:
